@@ -1,0 +1,33 @@
+
+/*selector de universa*/
+* {
+    font-family: monospace, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px
+}
+
+/* selector de etiqueta*/
+h1 {
+    color: red;
+    font-size: 50px;
+    text-align: center;
+}
+
+/*selector de id(unico) */
+#azul {
+    color: blue;
+    font-size: 60px;
+    text-align: end;
+}
+
+/*selector de clases*/
+.verde {
+    color: green;
+    font-size: 30px;
+    text-align: start;
+    overflow: scroll
+    ;
+}
+
+.photogirl {
+    width: 10em;
+}
